@@ -1,0 +1,29 @@
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\bin\Debug\net5.0\appsettings.json
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\bin\Debug\net5.0\Exam Prep Assignment - API.exe
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\bin\Debug\net5.0\Exam Prep Assignment - API.deps.json
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\bin\Debug\net5.0\Exam Prep Assignment - API.runtimeconfig.json
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\bin\Debug\net5.0\Exam Prep Assignment - API.runtimeconfig.dev.json
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\bin\Debug\net5.0\Exam Prep Assignment - API.dll
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\bin\Debug\net5.0\ref\Exam Prep Assignment - API.dll
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\bin\Debug\net5.0\Exam Prep Assignment - API.pdb
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\Exam Prep Assignment - API.csproj.AssemblyReference.cache
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\Exam Prep Assignment - API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\Exam Prep Assignment - API.AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\Exam Prep Assignment - API.AssemblyInfo.cs
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\Exam Prep Assignment - API.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\Exam Prep Assignment - API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\Exam Prep Assignment - API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\staticwebassets\Exam Prep Assignment - API.StaticWebAssets.Manifest.cache
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\staticwebassets\Exam Prep Assignment - API.StaticWebAssets.xml
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\scopedcss\bundle\Exam Prep Assignment - API.styles.css
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\Exam Prep Assignment - API.RazorTargetAssemblyInfo.cache
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\Exam Prep Assignment - API.csproj.CopyComplete
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\Exam Prep Assignment - API.dll
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\ref\Exam Prep Assignment - API.dll
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\Exam Prep Assignment - API.pdb
+C:\Users\mayur\Desktop\Mayurie\Campus\2022\INF 354\Exam Prep Assignment\Exam Prep Assignment - API\obj\Debug\net5.0\Exam Prep Assignment - API.genruntimeconfig.cache
